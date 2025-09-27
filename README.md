@@ -1,5 +1,4 @@
 # My First project
-# My First Project
 A simple Python project to demonstrate setting up a project environment using UV and Visual Studio Code.
 
 ## Features
